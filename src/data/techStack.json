@@ -1,0 +1,11 @@
+[
+    { "name": "JavaScript", "icon": "/images/javascript.png" },
+    { "name": "React", "icon": "/images/react.png" },
+    { "name": "PostgreSQL", "icon": "/images/postgresql.png" },
+    { "name": "Express", "icon": "/images/Express-js.png" },
+    { "name": "Tailwind", "icon": "/images/tailwind.png" },
+    { "name": "ThreeJS", "icon": "/images/Threejs-logo.png" },
+    { "name": "MongoDB", "icon": "/images/mongodb.png" },
+    { "name": "NodeJs", "icon": "/images/nodejs2.png"}
+  ]
+  

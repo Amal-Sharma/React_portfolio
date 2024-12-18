@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Employee Management System",
+      "cover": "./images/tbibi.jpeg",
+      "github": "https://github.com/Amal-Sharma/EmployeeManagementSystem",
+      "external": "https://ems-exe.netlify.app/",
+      "tech": ["ReactJS", "Tailwind CSS", "Netlify"],
+      "description": "Developed the Employee Management System, a scalable web platform that allows the admin to assing tasks to the employees and the employees to accept the tasks."
+    },
+    {
+      "title": "Team-Port",
+      "cover": "./images/team-port.png",
+      "github": "https://github.com/Amal-Sharma/three_js",
+      "external": "https://team-port.netlify.app/",
+      "tech": ["Three.js", "GSAP", "Tailwind CSS", "Netlify"],
+      "description": "Developed a community portfolio with a blend of tech and gaming theme using 3d modles implemented using Three.js."
+    },
+
+    {
+      "title": "Too Good Co",
+      "cover": "./images/too_good_co.png",
+      "github": "https://github.com/Amal-Sharma/Two-Good-Co",
+      "external": "https://amal-sharma.github.io/Two-Good-Co/#",
+      "tech": ["HTML", "CSS", "Javascript", "GSAP"],
+      "description": "Build a UI of an E-commerce website with thrilling animations implemented using animation librarites like GSAP and ScrollTrigger. "
+    }
+  ]
